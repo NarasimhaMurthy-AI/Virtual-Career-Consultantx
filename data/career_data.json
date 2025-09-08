@@ -1,0 +1,44 @@
+[
+  {
+    "career": "Data Scientist",
+    "skills": ["python", "machine learning", "statistics", "sql"],
+    "education": ["BSC/BTech", "Masters"],
+    "interests": ["Data", "AI"]
+  },
+  {
+    "career": "Database Administrator",
+    "skills": ["sql", "database", "mysql", "oracle"],
+    "education": ["BSC/BTech", "Masters"],
+    "interests": ["Data"]
+  },
+  {
+    "career": "Business Analyst",
+    "skills": ["excel", "powerbi", "sql"],
+    "education": ["BSC/BTech", "Masters", "Other"],
+    "interests": ["Data", "Marketing"]
+  },
+  {
+    "career": "UI/UX Designer",
+    "skills": ["figma", "adobe xd", "sketch"],
+    "education": ["BSC/BTech", "Other"],
+    "interests": ["Design"]
+  },
+  {
+    "career": "AI Engineer",
+    "skills": ["python", "deep learning", "neural networks"],
+    "education": ["Masters"],
+    "interests": ["AI", "Software"]
+  },
+  {
+    "career": "Digital Marketing Specialist",
+    "skills": ["seo", "content", "ads"],
+    "education": ["High School", "Other", "BSC/BTech"],
+    "interests": ["Marketing"]
+  },
+  {
+    "career": "Treding Analyst",
+    "skills": ["Analytical Thinking", "Financial Knowledge", "Risk Management","Emotional Control","Technology & Tools"],
+    "education": ["High School", "Other", "BSC/BTech","FRM (Financial Risk Manager)"],
+    "interests": ["finance & money management","data, statistics, and analysis."]
+  }
+]
